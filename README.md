@@ -13,16 +13,17 @@ Certified Ethereum Developer from [ConsenSys Academy](https://courses.consensys.
 
 #### Projects I've worked on
 
+- [Return Finance](https://return.finance) | Building DeFi integrations with Aave, Compound, Yearn and Conic Finance.
+- [Ledger](https://github.com/LedgerHQ) | Confidential project.
+- [Kallis NFT Checkout](https://usekallis.com) | NFT Checkout solution using Stripe.
 - [UniverseXYZ NFT Marketplace](https://github.com/UniverseXYZ/Universe-Marketplace) | Royalties enabled NFT Marketplace.
 - [UniverseXYZ Tiered Auctions](https://github.com/UniverseXYZ/AuctionContracts) | Tiered NFT Auction Smart Contracts.
 - [Polymorphs NFT Drop](https://opensea.io/collection/polymorphs) | The first dynamic NFTs.
 - [Lobby Lobsters NFT Drop](https://opensea.io/collection/lobby-lobsters) | Generated 1000 ETH for lobbying efforts.
 - [EnterDAO Sharded Minds NFT Drop](https://opensea.io/collection/sharded-minds) | 5000 Audiovisual NFTs.
 - [EnterDAO Decentraland Staking](https://etherscan.io/address/0x36e59268239022702d88716f25fb462fa588ea4d) | Yield farming contracts using Decentraland $LAND.
-- [Kallis NFT Checkout](https://usekallis.com) | NFT Checkout solution using Stripe.
 - [Aimagine NFT Launchpad](https://aimagine.wtf) | AI powered NFT Launchpad on Arbitrum.
 - [Decentralized Betting PoC](https://github.com/strenev/decentralized-betting-chainlink) | Betting games with yield generation for LPs - powered by Chainlink.
-- [Ledger](https://github.com/LedgerHQ) | Confidential project.
 
 #### Security related experience
 
