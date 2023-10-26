@@ -13,6 +13,7 @@ Certified Ethereum Developer from [ConsenSys Academy](https://courses.consensys.
 
 #### Projects I've worked on
 
+- [ApeBlendr](https://apeblendr.com) | ApeBlendr is a no-loss staking game built on top of the ApeCoin protocol.
 - [Return Finance](https://return.finance) | Building DeFi integrations with Aave, Compound, Yearn and Conic Finance.
 - [Ledger](https://github.com/LedgerHQ) | Confidential project.
 - [Kallis NFT Checkout](https://usekallis.com) | NFT Checkout solution using Stripe.
